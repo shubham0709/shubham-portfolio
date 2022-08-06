@@ -223,10 +223,12 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
+  top: 200px;
   width: 65%;
 }
 .home-img > img {
   border-radius: 20px;
+  width: 200px;
 }
 
 /*BUTTONS*/
