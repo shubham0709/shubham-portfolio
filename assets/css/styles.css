@@ -249,10 +249,11 @@ img {
 
 /* ===== ABOUT =====*/
 section.about {
-  padding: 20vh 15px;
+  padding: 0 15px;
 }
 .about-container {
   row-gap: 2rem;
+
   text-align: center;
 }
 .about-subtitle {
@@ -384,7 +385,7 @@ img.man-icons {
   margin: 1rem;
 }
 .project-btns {
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
 }
 
